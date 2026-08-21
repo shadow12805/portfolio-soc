@@ -188,8 +188,8 @@ const defaultProjects = [
     id: 'default-3',
     title: 'Forense digital con Autopsy',
     description: 'Examen de evidencia digital y documentación de hallazgos en entornos de aprendizaje.',
-    status: 'progress',
-    link: '',
+    status: 'completado',
+    link: 'https://shadow12805.github.io/informe-forense-canon2/',
     createdAt: Date.now() - 2000
   },
   {
